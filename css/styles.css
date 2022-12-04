@@ -45,6 +45,10 @@ li.nav-item {
 	background-color: white;
 	color: black;
 }
+#myCarousel .carousel-control-next{
+	left: 90%;
+}
+
 /*COLLECTION*/
 
 .collection .card-img-top{
